@@ -1,0 +1,21 @@
+ 
+El apartamento1 Pago? Pago 
+El apartamento2 Pago? No Pago 
+El apartamento3 Pago? No Pago 
+El apartamento4 Pago? Pago 
+El apartamento5 Pago? No Pago 
+El apartamento6 Pago? Pago 
+El apartamento7 Pago? No Pago 
+El apartamento8 Pago? Pago 
+El apartamento9 Pago? No Pago 
+El apartamento10 Pago? Pago 
+El apartamento11 Pago? Pago 
+El apartamento12 Pago? No Pago 
+El apartamento13 Pago? Pago 
+El apartamento14 Pago? No Pago 
+El apartamento15 Pago? Pago 
+El apartamento16 Pago? Pago 
+El apartamento17 Pago? No Pago 
+El apartamento18 Pago? Pago 
+El apartamento10 Pago? No Pago 
+El apartamento20 Pago? Pago

@@ -12,19 +12,19 @@ public class InformeFinal {
     Alquiler informe = new Alquiler();
     try{
         FileWriter escritura = new FileWriter("informe.txt");
-    escritura.write("El apartamento " + informe.getApartamento1());
-    escritura.write("El apartamento " + informe.getApartamento4());
-    escritura.write("El apartamento " + informe.getApartamento6());
-    escritura.write("El apartamento " + informe.getApartamento8());
-    escritura.write("El apartamento " + informe.getApartamento10());
-    escritura.write("El apartamento " + informe.getApartamento11());
-    escritura.write("El apartamento " + informe.getApartamento13());
-    escritura.write("El apartamento " + informe.getApartamento15());
-    escritura.write("El apartamento " + informe.getApartamento16());
-    escritura.write("El apartamento " + informe.getApartamento18());
-    escritura.write("El apartamento " + informe.getApartamento20());
-    
-    }catch(IOException excepcion){
+    escritura.write("\nEl apartamento " + informe.getApartamento1());
+    escritura.write("\nEl apartamento " + informe.getApartamento4());
+    escritura.write("\nEl apartamento " + informe.getApartamento6());
+    escritura.write("\nEl apartamento " + informe.getApartamento8());
+    escritura.write("\nEl apartamento " + informe.getApartamento10());
+    escritura.write("\nEl apartamento " + informe.getApartamento11());
+    escritura.write("\nEl apartamento " + informe.getApartamento13());
+    escritura.write("\nEl apartamento " + informe.getApartamento15());
+    escritura.write("\nEl apartamento " + informe.getApartamento16());
+    escritura.write("\nEl apartamento " + informe.getApartamento18());
+    escritura.write("\nEl apartamento " + informe.getApartamento20());
+    escritura.close();
+    }catch(Exception e){
         System.out.println("No han pagado " + informe.getApartamento2());
         System.out.println("No han pagado " + informe.getApartamento3());
         System.out.println("No han pagado " + informe.getApartamento5());
